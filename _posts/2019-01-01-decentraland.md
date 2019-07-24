@@ -4,7 +4,7 @@ title: "Decentraland!"
 author: "Chris"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: decentraland-1.jpg
 ---
 
 
