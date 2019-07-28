@@ -10,7 +10,7 @@ image: decentraland-1.jpg
 
 ## Testing the avatars claim link
 
-[Click here to get deeplinked into imToken](imtokenv2://navigate/DappView?url=https://claim.decentraland.org): getting started with avatars.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dui lorem, maximus et magna a, consectetur pretium nunc. Vestibulum eget viverra nisi. Duis scelerisque neque a velit aliquam, a pharetra nisi semper. Curabitur ac diam felis. Pellentesque sodales lacus ut pulvinar fermentum. Duis lectus risus, laoreet eget nisi quis, faucibus porttitor augue. In in lectus feugiat, euismod eros non, tempor massa. Vivamus tempus, urna vel hendrerit congue, nisi nisl aliquam nulla, in blandit lorem dolor vel lacus. Aenean tincidunt pellentesque scelerisque. In placerat imperdiet lectus, id auctor turpis sollicitudin nec. Duis quis elit scelerisque, mattis urna sit amet, iaculis metus. In hac habitasse platea dictumst.
 
