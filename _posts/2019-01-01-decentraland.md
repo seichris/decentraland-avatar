@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Decentraland Link!"
+title: "Testing Deep Link!"
 author: "Chris"
 categories: documentation
 tags: [documentation,sample]
