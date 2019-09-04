@@ -4,11 +4,11 @@ title: "Testing Decentraland Link!"
 author: "Chris"
 categories: documentation
 tags: [documentation,sample]
-image: decentraland-1.jpg
+image: arctic-1.jpg
 ---
 
 
-## Testing the avatars claim link
+## Testing the claim link
 
 [Click here to get deeplinked into imToken](imtokenv2://navigate/DappView?url=https://coinrequest.io/request/uCawWSZTLMO5jiP): getting started with avatars.
 
